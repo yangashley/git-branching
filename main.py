@@ -10,3 +10,4 @@ def getting_to_the_money(rich):
 getting_to_the_money("money")
 
 
+
