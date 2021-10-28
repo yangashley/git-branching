@@ -10,4 +10,9 @@ def getting_to_the_money(rich):
 getting_to_the_money("money")
 
 
+def feel_better(name):
+  print (f"You're doing a great job, {name}")
+
+feel_better("Adah")
+feel_better("Trenisha")
 
