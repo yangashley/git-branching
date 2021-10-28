@@ -1,7 +1,7 @@
 #creating a simple function
-def my_function(fname):
-  print(fname + " Goslee")
+def my_function(fname, lname):
+  print(f"{fname} {lname}")
 
-my_function("Trenisha")
+my_function("Trenisha", "Goslee")
 
 
