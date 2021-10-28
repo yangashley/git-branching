@@ -4,4 +4,9 @@ def my_function(fname):
 
 my_function("Trenisha")
 
+def getting_to_the_money(rich):
+  print(rich + "Min")
+
+getting_to_the_money("money")
+
 
